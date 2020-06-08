@@ -2,12 +2,12 @@
 templateKey: index-page
 title: " Lose Weight and Learn how to Make the Lifestyle Changes Needed to
   Sustain Your Results After Dieting"
-image: /img/home-jumbotron.jpg
+image: /img/chemex.jpg
 heading: " Lose Weight and Learn how to Make the Lifestyle Changes Needed to
   Sustain Your Results After Dieting"
 subheading: Discover What Dieters are Saying about the Ideal Protein Phenomena
 mainpitch:
-  title: Why Kaldi
+  title: Why Our Protocol
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
@@ -19,7 +19,7 @@ description: Kaldi is the ultimate spot for coffee lovers who want to learn
   knowledge to anyone.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/profile.png
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
